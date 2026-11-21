@@ -4,5 +4,6 @@
 - 2 libras de arroz
 - 1 libra de frijol
 
-##Aseo
--1 jabon de barra
+## Aseo
+- 1 jabon de barra
+
